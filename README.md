@@ -1,5 +1,5 @@
 # AsIndiaAssignment1
-Declare required variables
+Declare required variables <br/>
 read input from user (upto number you want)
 declare array based on size n (input from user)
 read numbers from user using for loop for the condition n-1
